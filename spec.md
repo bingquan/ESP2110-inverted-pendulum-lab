@@ -38,6 +38,18 @@ Create improved versions of the ESP2110 inverted pendulum lab notebooks without 
 - All new setup instructions should work in a clean Colab runtime.
 - Keep the original code cells intact so existing computations still run.
 
+## Validation and Runtime Feedback
+- Run every notebook in `updated_notebooks/` end-to-end in a clean Colab (or local) runtime using `Runtime -> Restart and run all`.
+- Record any errors, long runtimes, or missing dependencies and update the setup cell accordingly.
+- Review all generated plots for readability:
+  - Titles, axis labels, and units are present.
+  - Legends are used when multiple curves are shown.
+  - Scales make the key behaviors visible (no clipped or flat-lined plots).
+- Provide student-facing runtime feedback after each lesson:
+  - What output/plot indicates success.
+  - What a common failure looks like and how to fix it.
+  - Any confusing or ambiguous instructions to clarify.
+
 ## Deliverables
 - `updated_notebooks/` containing improved notebooks with the additions above.
 - `spec.md` describing the improvement plan (this file).
