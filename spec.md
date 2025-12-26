@@ -5,7 +5,7 @@ Create improved versions of the ESP2110 inverted pendulum lab notebooks without 
 
 ## Scope
 - Source notebooks live in `notebook_for_reference/`.
-- Improved notebooks live in `updated_notebooks/` with the same filenames.
+- Improved notebooks live in `updated_notebooks/` with updated naming for Lesson 4A/4B/4C.
 - Do not edit any files under `notebook_for_reference/`.
 - Maintain compatibility with Colab by including a setup cell for dependencies.
 

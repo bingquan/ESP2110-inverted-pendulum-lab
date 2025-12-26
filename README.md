@@ -19,13 +19,13 @@ This repository is a set of ESP2110 inverted pendulum lab notebooks. Follow the 
 - Task: Determine stability of the upward and downward systems when `f = 0` (15 mins).
 
 ### Lesson 4: Controllers and Disturbances
-- Implementing Controller: `notebook_for_reference/ESP2110 - Lab Lesson 4 (Implementing Controller).ipynb`
+- Implementing Controller: `updated_notebooks/ESP2110 - Lab Lesson 4A (Implementing Controller).ipynb`
   - Topics: Eigenvalue analysis and PID control.
   - Task: Implement P, PD, and PID controllers (through end of lesson).
-  - Answer key: `notebook_for_reference/ESP2110 - Lab Lesson 4 (Implementing Controller) (Answer).ipynb`
-- Cart Controller: `notebook_for_reference/ESP2110 - Lab Lesson 4 (Cart Controller).ipynb`
+  - Answer key: `updated_notebooks/ESP2110 - Lab Lesson 4 (Implementing Controller) (Answer).ipynb`
+- Cart Controller: `updated_notebooks/ESP2110 - Lab Lesson 4B (Cart Controller).ipynb`
   - Tasks: Cascaded control for pole + cart stabilization; setpoint changes.
-- External Disturbances: `notebook_for_reference/ESP2110 - Lab Lesson 4 (External Disturbances).ipynb`
+- External Disturbances: `updated_notebooks/ESP2110 - Lab Lesson 4C (External Disturbances).ipynb`
   - Task: Investigate the effect of disturbances on the system.
 
 ### Lesson 5: State Estimation & Robust Control
